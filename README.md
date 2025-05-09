@@ -1,9 +1,6 @@
-<div align="center">
+<div>
 
 <h1>Hi there! 👋 I'm Javier E. Sosa Fuch</h1>
-
-[![GitHub Profile Picture](https://github.com/SFJavierE.png?size=200)](https://github.com/SFJavierE)
-
 ---
 
 ## 🚀 My Professional Journey
@@ -53,11 +50,13 @@ I'm a [Adjective 1], [Adjective 2] individual always eager to learn and collabor
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
 
+
+## 📊 My GitHub Stats
 ![SFJavierE's Stats](https://github-readme-stats.vercel.app/api?username=SFJavierE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosafuch/)
-[![Email](http://googleusercontent.com/image_generation_content/0)](mailto:sosafuch@gmail.com)
+[![Email](http://googleusercontent.com/image_collection/image_retrieval/5827951255254458169)](mailto:sosafuch@gmail.com)
 
 ```markdown
