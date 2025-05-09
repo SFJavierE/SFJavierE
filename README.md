@@ -36,7 +36,7 @@ While my current focus is firmly on game development and, in particular, engine 
 ## 🛠️ Languages and Tools
 
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-<img align="left" alt="Unreal" width="50px" style="padding-right:10px;filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
+<img align="left" alt="Unreal" width="50px" style="padding-right:10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="Typescript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
