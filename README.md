@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h1>Hi there! 👋 I'm Javier E. Sosa Fuch</h1>
 
@@ -51,4 +51,4 @@ While my current focus is firmly on game development and, in particular, engine 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosafuch/)
-[![Email](https://img.icons8.com/material-outlined/30/000000/new-post.png)](mailto:sosafuch@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosafuch@gmail.com)
