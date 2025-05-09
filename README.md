@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <h1>Hi there! 👋 I'm Javier E. Sosa Fuch</h1>
 
@@ -7,7 +7,7 @@ Hello! I'm a 28-year-old software enthusiast with a lifelong passion for technol
 For me, programming isn't just a job; it's a continuous journey of improvement and a constant intellectual stimulation. The dynamic nature of this profession, where staying current and mastering new skills is paramount, truly resonates with my desire for growth. It's this inherent challenge and the potential for endless learning that fuels my commitment to dedicate a significant portion of my time and energy to this beautiful and ever-expanding discipline. I'm excited to continue exploring the vast landscape of programming and contributing meaningfully to the tech community.
 
 </div>
----
+
 <div>
 ## 🚀 My Professional Journey
 
@@ -32,18 +32,6 @@ While my current focus is firmly on game development and, in particular, engine 
 
 </div>
 
----
-
-## 🚀 About Me
-
-I'm a [Adjective 1], [Adjective 2] individual always eager to learn and collaborate. I'm currently focused on [Your Main Current Focus] and exploring [A Topic or Technology You're Exploring].
-
-* 🔭 I’m currently working on: [TrickStudio](https://www.trickgs.com/)
-* 🌱 I’m learning about: [UnrealEngine5](https://www.unrealengine.com/es-ES/unreal-engine-5).
-* 👯 I’m looking to collaborate on projects related to: [Mention areas or types of projects you'd like to contribute to].
-* 💬 Ask me about: [Mention topics you feel comfortable discussing].
-* ⚡ Fun fact: [An interesting or funny fact about you].
-
 ## 🛠️ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
@@ -56,13 +44,11 @@ I'm a [Adjective 1], [Adjective 2] individual always eager to learn and collabor
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
 
-
 ## 📊 My GitHub Stats
+
 ![SFJavierE's Stats](https://github-readme-stats.vercel.app/api?username=SFJavierE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosafuch/)
-[![Email](http://googleusercontent.com/image_collection/image_retrieval/5827951255254458169)](mailto:sosafuch@gmail.com)
-
-```markdown
+[![Email](https://img.icons8.com/material-outlined/30/000000/new-post.png)](mailto:sosafuch@gmail.com)
