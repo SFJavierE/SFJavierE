@@ -1,11 +1,17 @@
 <div>
 
 <h1>Hi there! 👋 I'm Javier E. Sosa Fuch</h1>
----
 
+Hello! I'm a 28-year-old software enthusiast with a lifelong passion for technology. From a young age, I've been captivated by the ever-evolving world of tech, and I find immense satisfaction in overcoming challenges. This inherent drive is what drew me to the field of programming, where each day presents a fresh opportunity to learn, grow, and confront increasingly intricate problems.
+
+For me, programming isn't just a job; it's a continuous journey of improvement and a constant intellectual stimulation. The dynamic nature of this profession, where staying current and mastering new skills is paramount, truly resonates with my desire for growth. It's this inherent challenge and the potential for endless learning that fuels my commitment to dedicate a significant portion of my time and energy to this beautiful and ever-expanding discipline. I'm excited to continue exploring the vast landscape of programming and contributing meaningfully to the tech community.
+
+</div>
+---
+<div>
 ## 🚀 My Professional Journey
 
-My journey into the digital world began as a **Web Developer**, where I had the opportunity to explore and master various facets of development. My path spanned from **creating intuitive and engaging user interfaces on the frontend**, utilizing technologies such as [Mention some frontend technologies you used, e.g., HTML, CSS, JavaScript, React, Angular, Vue.js], to **building robust and efficient logic on the backend**, employing languages and frameworks like [Mention some backend technologies you used, e.g., Node.js, Python, Django, Ruby on Rails, PHP, databases like PostgreSQL, MySQL, MongoDB].
+My journey into the digital world began as a **Web Developer**, where I had the opportunity to explore and master various facets of development. My path spanned from **creating intuitive and engaging user interfaces on the frontend**, utilizing technologies such as React, Typescript, Angular, etc, to **building robust and efficient logic on the backend**, employing languages and frameworks like ExpressJS, NodeJS, RubyOnRails.
 
 This multifaceted experience provided me with a comprehensive understanding of the software development lifecycle and allowed me to develop a **strong capacity for continuous learning and remarkable adaptability** to new technologies and challenges. Furthermore, my role as a **Development Team Lead** significantly strengthened my **communication, collaboration, and project management skills**, learning to coordinate efforts, foster a positive work environment, and achieve common goals.
 
@@ -15,7 +21,7 @@ My time in web development not only equipped me with a valuable set of technical
 
 Now, I have channeled that passion and experience towards a field that has always resonated with me: **Game Development**. This transition provides me with the exciting opportunity to dedicate myself to projects that genuinely inspire me and allow me to apply the technical and soft skills I have acquired throughout my career. I am utilizing the tools and knowledge I gained on my path as a web developer to create interactive and captivating experiences in the gaming world.
 
-I am currently exploring [Mention a specific technology or area of game development you are working on or interested in, e.g., engines like Unity or Unreal Engine, languages like C# or C++, gameplay design, graphics development, etc.]. I am enthusiastic about continuing to grow and contribute to the creation of immersive virtual worlds and memorable gaming experiences.
+I am currently exploring UnrealEngine5 and Multiplaying Technologies. I am enthusiastic about continuing to grow and contribute to the creation of immersive virtual worlds and memorable gaming experiences.
 
 ## 🎯 Objectives
 
