@@ -28,10 +28,9 @@ I am currently exploring UnrealEngine5 and Multiplaying Technologies. I am enthu
 My primary objective as a game developer is to **contribute significantly to the creation and maintenance of game engines**. I am enthusiastic about the idea of bringing my experience and knowledge to the development community, whether by working on existing engines and improving them, or even embarking on the challenging project of **building my own engine**.
 
 While my current focus is firmly on game development and, in particular, engine engineering, I maintain my priorities as a professional developer. This means that **I will continue to undertake projects that demonstrate my versatility, my technical skills, and my ability to tackle complex challenges** in various areas of software development. I believe that this duality enriches my profile and allows me to continue growing as a professional in the broad spectrum of technology.
-
-
 </div>
 
+<div>
 ## 🛠️ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
@@ -43,12 +42,15 @@ While my current focus is firmly on game development and, in particular, engine 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
-
+</div>
+<div>
 ## 📊 My GitHub Stats
 
 ![SFJavierE's Stats](https://github-readme-stats.vercel.app/api?username=SFJavierE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+</div>
+<div>
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosafuch/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosafuch@gmail.com)
+</div>
