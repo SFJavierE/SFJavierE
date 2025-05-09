@@ -36,7 +36,9 @@ While my current focus is firmly on game development and, in particular, engine 
 ## 🛠️ Languages and Tools
 
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-<i class="devicon-unrealengine-original"></i>
+<div style="background-color: black; border-radius: 50%; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center;">
+<img align="left" alt="Unreal" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
+</div>
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="Typescript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
@@ -47,5 +49,4 @@ While my current focus is firmly on game development and, in particular, engine 
 <br clear="left">
 
 ## 📊 My GitHub Stats
-
 ![SFJavierE's Stats](https://github-readme-stats.vercel.app/api?username=SFJavierE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
