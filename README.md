@@ -43,7 +43,6 @@ While my current focus is firmly on game development and, in particular, engine 
 ---
 
 ## 📊 My GitHub Stats
-
 ![SFJavierE's Stats](https://github-readme-stats.vercel.app/api?username=SFJavierE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔗 Connect with Me
