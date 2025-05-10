@@ -15,15 +15,15 @@ For me, programming isn't just a job; it's a continuous journey of improvement a
 
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-<img color="white" align="left" alt="Unreal" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img align="left" alt="Typescript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-<img align="left" alt="Tailwind" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-<img align="left" alt="Rails" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg">
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="Jira" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+[![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg)](https://unity.com/)
+[![UnrealEngine](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg)](https://www.unrealengine.com/)
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)](https://react.dev/)
+[![Typescript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
+[![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg)](https://angular.dev/)
+[![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)](https://tailwindcss.com/)
+[![RubyOnRails](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg)](https://rubyonrails.org/)
+[![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)](https://nodejs.org/en)
+[![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)](https://www.atlassian.com/software/jira)
 <br clear="left">
 
 ## 📊 My GitHub Stats
